@@ -1,9 +1,14 @@
 name: Java CI
 
-on: [pull_request]
+on:
+  pull_request:
+  push:
+    branches:
+      - master
 
 jobs:
-  build:
+  test:
+    name: Running Unit tests
     runs-on: ubuntu-latest
 
     steps:
