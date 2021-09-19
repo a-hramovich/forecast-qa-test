@@ -1,6 +1,6 @@
 name: Java CI
 
-on: [merge]
+on: [pull_request]
 
 jobs:
   build:
