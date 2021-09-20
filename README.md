@@ -1,3 +1,6 @@
+![example workflow](https://github.com/a-hramovich//forecast-qa-test/actions/workflows/test_before_merge.yaml/badge.svg)
+
+
 ## Intro 
 Imagine you have a commandline app to show tomorrow's forecast using public API: https://www.metaweather.com/api/
 
