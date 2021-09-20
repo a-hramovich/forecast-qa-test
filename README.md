@@ -1,3 +1,5 @@
+[![Build](https://github.com/a-hramovich/forecast-qa-test/actions/workflows/test_before_merge.yaml/badge.svg?branch=master&event=push)](https://github.com/a-hramovich/forecast-qa-test/actions/workflows/test_before_merge.yaml)
+
 ## Intro 
 Imagine you have a commandline app to show tomorrow's forecast using public API: https://www.metaweather.com/api/
 
